@@ -1,4 +1,4 @@
-# Hello Friend! 👋  
+# Hello, Friend! 👋  
 
 ### Boas-vindas ao meu perfil do Github.
 
@@ -15,6 +15,6 @@
   - ![CSS3](https://img.shields.io/badge/-CSS3-blue)
   - ![Javascript](https://img.shields.io/badge/-Javascript-orange) 
 
-📫 Você pode me contatar em: 
+📫 Você pode me contatar em: <br/>
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/plmsz/)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=Email&color=red&style=flat-square&logo=Gmail&logoColor=white)](mailto:plmsouzaoliveira@gmail.com)
