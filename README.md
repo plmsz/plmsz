@@ -1,7 +1,9 @@
 # Hello, Friend! 👋  
 
 ### Boas-vindas!
+
 <br/>
+
 ## Sobre
   - 👩‍💻 Meu nome é Paloma, tenho 27 anos e sou de Salvador-Bahia.  
   - 📖 Sou estudante de Desenvolvimento Full Stack Web na <a href="https://www.cubos.academy/" target="_blank">Cubos Academy</a>
