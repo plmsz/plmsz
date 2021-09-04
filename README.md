@@ -11,10 +11,14 @@
  
 <br/>
 
-## 🛠️ Atualmente estou apredendo:
-  - ![HTML5](https://img.shields.io/badge/-HTML5-red)
-  - ![CSS3](https://img.shields.io/badge/-CSS3-blue)
-  - ![Javascript](https://img.shields.io/badge/-Javascript-orange) 
+## 🛠️ Atualmente estou apredendo sobre:
+  - ![React](https://img.shields.io/badge/React-303238?style=for-the-badge&logo=react&logoColor=61DAFB)
+  - ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Ee) 
+  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
+  - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  
 
 ## 📫 Você pode me contatar em: <br/>
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/plmsz/)
