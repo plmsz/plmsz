@@ -6,7 +6,7 @@
 ## Sobre
   - 👩‍💻 Meu nome é Paloma, tenho 30 anos e sou de Salvador-Bahia.  
   - 🍺💻  Sou desenvolvedora na Ambev Tech. 
-  - 📖 Formada em Desenvolvimento Web Full Stack pela <a href="https://www.cubos.academy/" target="_blank">Cubos Academy</a>
+  - 📖 Graduanda em Ciência da Computação
     
 ## 🛠️ Tecnologias que eu estou apredendo sobre:
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) &nbsp;
