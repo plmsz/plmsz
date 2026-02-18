@@ -4,7 +4,7 @@
 <br/>
 
 ## Sobre
-  - 👩‍💻 Meu nome é Paloma, tenho 30 anos e sou de Salvador-Bahia.  
+  - 👩‍💻 Meu nome é Paloma, tenho 32 anos e sou de Salvador-Bahia.  
   - 🍺💻  Sou desenvolvedora na Ambev Tech. 
   - 📖 Graduanda em Ciência da Computação
     
@@ -21,12 +21,6 @@
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  &nbsp;
   ![CSS3](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)  &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  &nbsp;
-<br/>
-
-## ⭐ Github stats
- ![Paloma's github stats](https://github-readme-stats.vercel.app/api?username=plmsz&hide=contribs&count_private=true&show_icons=true)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plmsz&layout=compact)](https://github.com/plmsz/github-readme-stats)
-
 <br/>
 
 ## 📫 Você pode me contatar em: <br/>
